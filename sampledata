@@ -1,0 +1,333 @@
+[
+  {
+    "event_type": "plate_detection",
+    "plate": "UP53AB1234",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "timestamp": 0,
+    "confidence": 90.3,
+    "frames_used": 3
+  },
+  {
+    "event_type": "plate_detection",
+    "plate": "DL8CAF5030",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "timestamp": 30,
+    "confidence": 89.3,
+    "frames_used": 3
+  },
+  {
+    "event_type": "plate_detection",
+    "plate": "KA05MZ4444",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "timestamp": 60,
+    "confidence": 24.0,
+    "frames_used": 2
+  },
+  {
+    "event_type": "blacklist_alert",
+    "plate": "KA05MZ4444",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "timestamp": 60,
+    "confidence": 24.0
+  },
+  {
+    "event_type": "plate_detection",
+    "plate": "UP53AB1234",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "timestamp": 240,
+    "confidence": 91.0,
+    "frames_used": 3
+  },
+  {
+    "event_type": "plate_detection",
+    "plate": "DL8CAF5030",
+    "camera_id": "CAM-03",
+    "lat": 26.748,
+    "lon": 83.41,
+    "timestamp": 300,
+    "confidence": 89.0,
+    "frames_used": 3
+  },
+  {
+    "event_type": "plate_detection",
+    "plate": "KA05NZ4444",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "timestamp": 500,
+    "confidence": 39.0,
+    "frames_used": 3
+  },
+  {
+    "event_type": "plate_detection",
+    "plate": "DL8CAF5030",
+    "camera_id": "CAM-05",
+    "lat": 26.782,
+    "lon": 83.405,
+    "timestamp": 600,
+    "confidence": 89.0,
+    "frames_used": 3
+  },
+  {
+    "event_type": "plate_detection",
+    "plate": "UP53AB1234",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "timestamp": 700,
+    "confidence": 91.0,
+    "frames_used": 3
+  }
+]
+[
+  {
+    "file": "UP53AB1234_CAM-01_t0_f0.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "t_offset": 0,
+    "frame": 0,
+    "degrade_level": 1
+  },
+  {
+    "file": "UP53AB1234_CAM-01_t0_f1.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "t_offset": 0,
+    "frame": 1,
+    "degrade_level": 1
+  },
+  {
+    "file": "UP53AB1234_CAM-01_t0_f2.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "t_offset": 0,
+    "frame": 2,
+    "degrade_level": 1
+  },
+  {
+    "file": "UP53AB1234_CAM-02_t240_f0.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "t_offset": 240,
+    "frame": 0,
+    "degrade_level": 2
+  },
+  {
+    "file": "UP53AB1234_CAM-02_t240_f1.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "t_offset": 240,
+    "frame": 1,
+    "degrade_level": 2
+  },
+  {
+    "file": "UP53AB1234_CAM-02_t240_f2.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "t_offset": 240,
+    "frame": 2,
+    "degrade_level": 2
+  },
+  {
+    "file": "UP53AB1234_CAM-04_t700_f0.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "t_offset": 700,
+    "frame": 0,
+    "degrade_level": 1
+  },
+  {
+    "file": "UP53AB1234_CAM-04_t700_f1.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "t_offset": 700,
+    "frame": 1,
+    "degrade_level": 1
+  },
+  {
+    "file": "UP53AB1234_CAM-04_t700_f2.png",
+    "true_plate": "UP53AB1234",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "t_offset": 700,
+    "frame": 2,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-02_t30_f0.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "t_offset": 30,
+    "frame": 0,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-02_t30_f1.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "t_offset": 30,
+    "frame": 1,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-02_t30_f2.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-02",
+    "lat": 26.755,
+    "lon": 83.39,
+    "t_offset": 30,
+    "frame": 2,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-03_t300_f0.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-03",
+    "lat": 26.748,
+    "lon": 83.41,
+    "t_offset": 300,
+    "frame": 0,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-03_t300_f1.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-03",
+    "lat": 26.748,
+    "lon": 83.41,
+    "t_offset": 300,
+    "frame": 1,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-03_t300_f2.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-03",
+    "lat": 26.748,
+    "lon": 83.41,
+    "t_offset": 300,
+    "frame": 2,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-05_t600_f0.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-05",
+    "lat": 26.782,
+    "lon": 83.405,
+    "t_offset": 600,
+    "frame": 0,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-05_t600_f1.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-05",
+    "lat": 26.782,
+    "lon": 83.405,
+    "t_offset": 600,
+    "frame": 1,
+    "degrade_level": 1
+  },
+  {
+    "file": "DL8CAF5030_CAM-05_t600_f2.png",
+    "true_plate": "DL8CAF5030",
+    "camera_id": "CAM-05",
+    "lat": 26.782,
+    "lon": 83.405,
+    "t_offset": 600,
+    "frame": 2,
+    "degrade_level": 1
+  },
+  {
+    "file": "KA05MZ4444_CAM-01_t60_f0.png",
+    "true_plate": "KA05MZ4444",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "t_offset": 60,
+    "frame": 0,
+    "degrade_level": 2
+  },
+  {
+    "file": "KA05MZ4444_CAM-01_t60_f1.png",
+    "true_plate": "KA05MZ4444",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "t_offset": 60,
+    "frame": 1,
+    "degrade_level": 2
+  },
+  {
+    "file": "KA05MZ4444_CAM-01_t60_f2.png",
+    "true_plate": "KA05MZ4444",
+    "camera_id": "CAM-01",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "t_offset": 60,
+    "frame": 2,
+    "degrade_level": 2
+  },
+  {
+    "file": "KA05MZ4444_CAM-04_t500_f0.png",
+    "true_plate": "KA05MZ4444",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "t_offset": 500,
+    "frame": 0,
+    "degrade_level": 3
+  },
+  {
+    "file": "KA05MZ4444_CAM-04_t500_f1.png",
+    "true_plate": "KA05MZ4444",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "t_offset": 500,
+    "frame": 1,
+    "degrade_level": 3
+  },
+  {
+    "file": "KA05MZ4444_CAM-04_t500_f2.png",
+    "true_plate": "KA05MZ4444",
+    "camera_id": "CAM-04",
+    "lat": 26.77,
+    "lon": 83.425,
+    "t_offset": 500,
+    "frame": 2,
+    "degrade_level": 3
+  }
+]
